@@ -4,3 +4,4 @@ again
 ditto
 yo yo yo
 foo
+bar
